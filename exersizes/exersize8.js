@@ -1,6 +1,9 @@
 console.log("задание 8");
-let k = 8;
-let l = 3;
-let x = (16-k)/2+l;
-// let x = 23780/(1+2+k+l)
-console.log(x); 
+a = 8;
+b = 3;
+ x = (16-a)/2+b;
+console.log("x="+x);
+x = 15*b-a/(6-b);
+console.log("x="+x);
+x = 23780/(1+2+a+b);
+console.log("x="+x); 
